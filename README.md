@@ -98,7 +98,7 @@ The system consists of the following microservices:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/ecommerce-microservices.git
+   git clone https://github.com/AnirudhSharma777/E-commerce-MicroServices-Backend-Project.git
    cd ecommerce-microservices
    ```
 2. Start dependent services (Kafka, MongoDB, PostgreSQL) using Docker Compose:
